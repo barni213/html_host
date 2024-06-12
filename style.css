@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+img{
+    border: solid rgb(255, 255, 255) 3px;
+    margin-top: 1cm;
+}
+
+h1{
+    color: white;
+}
